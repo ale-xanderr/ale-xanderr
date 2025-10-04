@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=2000&pause=1000&color=12AE05&background=21283000&center=true&vCenter=true&multiline=true&width=700&lines=section+.data;msg+db+'HELLO+WORLD,+I+AM+SEAN+XANDER+B.+AQUINO',0xA;len+equ+$-msg;section+.text;global+_start;_start:;mov+edx,+len;mov+ecx,+msg;mov+ebx,+1;mov+eax,+4;int+0x80;mov+eax,+1;xor+ebx,+ebx;int+0x80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=2500&pause=1000&color=12AE05&background=21283000&center=true&vCenter=true&width=1200&lines=print('Hello+World,+I+am+Sean+Xander+B.+Aquino')" alt="Typing SVG" />
   </a>
 </p>
----
 
 ## 🧩 About Me
 - 🎓 BS in Computer Science, focusing on Artificial Intelligence and Internet of Things    
