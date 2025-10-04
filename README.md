@@ -1,15 +1,9 @@
-# 👋 Hi, I'm Sean Xander B. Aquino!
-
-### 💻 Software Developer | 🌱 ML & Geospatial Research | 🔭 Open Source Enthusiast
-
+# 👋 What is up! I'm Sean Xander B. Aquino!
 ---
 
 ## 🧩 About Me
-- 🎓 BS in Computer Science, focusing on AI and Geospatial Analysis  
-- 🚀 Currently working on: **Climate Risk Assessment with ML**  
-- 🌍 Passionate about: Open Data • Environmental AI • Visualization  
-- 💬 Ask me about: Python, Flask, Machine Learning, and Arduino Robotics  
-- 📫 Reach me at: [email@example.com](mailto:email@example.com)
+- 🎓 BS in Computer Science, focusing on Artificial Intelligence and Internet of Things    
+- 📫 Reach me at: [aquinoseanxander@gmail.com](mailto:aquinoseanxander@gmail.com) or [seaquino@my.cspc.edu.ph](mailto:seaquino@my.cspc.edu.ph)
 
 ---
 
