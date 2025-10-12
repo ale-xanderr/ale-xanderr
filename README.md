@@ -5,7 +5,7 @@
 </p>
 
 ## 🧩 About Me
-- 🎓 BS in Computer Science, specializing in Artificial Intelligence and Internet of Things  
+- 🎓 BS in Computer Science, focusing on Artificial Intelligence and Internet of Things    
 - 📫 Reach me at: [aquinoseanxander@gmail.com](mailto:aquinoseanxander@gmail.com) or [seaquino@my.cspc.edu.ph](mailto:seaquino@my.cspc.edu.ph)
 
 ---
@@ -16,29 +16,24 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-333333?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ale-xanderr&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-xanderr&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+![GitHub Stats](github-readme-stats-pi-two-55.vercel.app/api?username=ale-xanderr&show_icons=true&theme=tokyonight)
+![Top Languages](github-readme-stats-pi-two-55.vercel.app/api/top-langs/?username=ale-xanderr&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ale-xanderr&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ale-xanderr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
 ---
 
 ## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ale-xanderr&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+![Contribution Graph](github-readme-stats-pi-two-55.vercel.app/graph?username=ale-xanderr&theme=tokyo-night)
 
 ---
 
