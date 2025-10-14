@@ -22,25 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ale-xanderr&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-xanderr&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ale-xanderr&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ale-xanderr&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p>
   <a href="https://linkedin.com/in/ale-xanderr" target="_blank">
