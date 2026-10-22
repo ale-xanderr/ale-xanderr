@@ -1,4 +1,6 @@
-# Sean Xander B. Aquino
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=2500&pause=1000&color=12AE05&background=212830&center=true&vCenter=true&width=1200&lines=print('Hello+World,+I+am+Sean+Xander+B.+Aquino')" alt="Typing SVG" />
+</p>
 
 BS in Computer Science, with a focus on **Artificial Intelligence** and the **Internet of Things**. I build projects and explore software development through individual work, coursework, and team collaboration.
 
@@ -17,11 +19,16 @@ BS in Computer Science, with a focus on **Artificial Intelligence** and the **In
 
 Each project repository provides its own context, approach, setup notes, and contributor credits.
 
-## Languages and tools
-
-Python · Java · C · Assembly · HTML · CSS · JavaScript
-
-Flask · FastAPI · Flet · React · MySQL · Supabase · Docker · Git
+## 🧰 Languages & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flet-333333?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ## Connect
 
