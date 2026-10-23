@@ -13,12 +13,6 @@ BS in Computer Science, with a focus on **Artificial Intelligence** and the **In
 | [Product Inventory System](https://github.com/ale-xanderr/Product-Inventory-System) | A team project covering inventory operations, parallel arrays, sorting, and value calculations. | Assembly, NASM |
 | [Flask CI/CD Demo](https://github.com/ale-xanderr/SoftEng) | A small web application with an endpoint test, Docker packaging, and CI/CD workflows. | Python, Flask, pytest, Docker |
 
-## Coursework
-
-[CCCS 106 Projects](https://github.com/ale-xanderr/cccs106-projects) collects labs for Application Development and Emerging Technologies, organized by week and module.
-
-Each project repository provides its own context, approach, setup notes, and contributor credits.
-
 ## 🧰 Languages & Tools
 
 ### Languages
